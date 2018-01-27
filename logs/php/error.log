@@ -12,3 +12,9 @@ Stack trace:
 #8 /usr/local/bin/wp(4): include('phar:///usr/loc...')
 #9 {main}
   thrown in phar:///usr/local/bin/wp/php/WP_CLI/Dispatcher/Subcommand.php on line 254
+[27-Jan-2018 03:54:13 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[27-Jan-2018 03:54:13 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[27-Jan-2018 03:54:13 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[27-Jan-2018 03:54:13 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[27-Jan-2018 03:54:13 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[27-Jan-2018 03:54:13 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional-university-theme/index.php on line 3
