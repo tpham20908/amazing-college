@@ -11,4 +11,6 @@ INSERT INTO `wp_postmeta` VALUES
 (9,7,"_edit_lock","1517059171:1"),
 (12,4,"_wp_trash_meta_status","draft"),
 (13,4,"_wp_trash_meta_time","1517059334"),
-(14,4,"_wp_desired_post_slug","");
+(14,4,"_wp_desired_post_slug",""),
+(15,10,"_edit_last","1"),
+(16,10,"_edit_lock","1517064464:1");
