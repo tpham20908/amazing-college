@@ -7,7 +7,7 @@
   wp_enqueue_style('college_main_styles', get_stylesheet_uri());
   // link to internal javascript file
   // wp_enqueue_script(name, get_theme_file_uri(), dependancy, version, place it before body closing);
-  wp_enqueue_script('college_main_js', get_theme_file_uri('js/scripts-bundled.js'), null, '1.0', true);
+  wp_enqueue_script('college_main_js', get_theme_file_uri('js/scripts-bundled.js'), null, microtime(), true);
 } ?>
 
 <!-- assign custom function name college_files -->
