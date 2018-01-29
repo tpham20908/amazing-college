@@ -12,3 +12,10 @@
 
 <!-- assign custom function name college_files -->
 <?php add_action('wp_enqueue_scripts', 'college_files'); ?>
+
+<?php function college_features() {
+  add_theme_support('title-tag');
+} ?>
+
+<!-- add action to 'after_setup_theme' with 'college_features' function -->
+<?php add_action('after_setup_theme', 'college_features'); ?>
