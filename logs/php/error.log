@@ -103,3 +103,14 @@ Stack trace:
 [31-Jan-2018 01:59:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 37
 [31-Jan-2018 02:06:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 34
 [31-Jan-2018 02:28:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/fictional-university-theme/page.php on line 32
+[31-Jan-2018 02:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attribute() in /app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/header.php on line 2
