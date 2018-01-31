@@ -42,7 +42,8 @@
 
           wp_list_pages(array(
             'title_li' => null,
-            'child_of' => $findChildrenOf
+            'child_of' => $findChildrenOf,
+            'sort_column' => 'menu_order'
           ));
 
         ?>
