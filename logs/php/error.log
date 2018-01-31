@@ -102,3 +102,4 @@ Stack trace:
 [31-Jan-2018 01:59:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 37
 [31-Jan-2018 01:59:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 37
 [31-Jan-2018 02:06:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 34
+[31-Jan-2018 02:28:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/fictional-university-theme/page.php on line 32
