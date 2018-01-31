@@ -57,3 +57,7 @@
 [31-Jan-2018 01:33:19] NOTICE: fpm is running, pid 54
 [31-Jan-2018 01:33:19] NOTICE: ready to handle connections
 [31-Jan-2018 01:33:32] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[31-Jan-2018 03:04:04] NOTICE: Terminating ...
+[31-Jan-2018 03:04:04] NOTICE: exiting, bye-bye!
+[31-Jan-2018 18:25:33] NOTICE: fpm is running, pid 36
+[31-Jan-2018 18:25:33] NOTICE: ready to handle connections
